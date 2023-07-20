@@ -3,7 +3,7 @@
 /*
 /* @brief Performs a memory test and hardware validation for the ESP32-S3 
 /*		- Dual 32bit Xtensa LX7 cores running up to 240Mhz
-/*		- RISC-V Ultra Low Power Co-processor
+/*		- Ultra Low Power Co-processor
 /*		- Flash up to 32 MB (Octal), 8 MB PSRAM (Octal)
 /*		- Internal 384 KB ROM
 /*		- Internal 512 KB SRAM
